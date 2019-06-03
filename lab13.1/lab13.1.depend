@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559562272 source:d:\lab13.1\main.cpp
+	"math.h"
+	<iostream>
+	<conio.h>
+
